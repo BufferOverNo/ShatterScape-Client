@@ -1,0 +1,11 @@
+isFixedScreenSaved = true
+clientWidthSaved = 1000
+clientHeightSaved = 700
+clientFixedLocationX = 589.0
+clientFixedLocationY = 279.0
+clientResizedLocationX = -1.0
+clientResizedLocationY = -1.0
+clientMaximized = true
+maximizable = false
+maximizableWidth = 764
+maximizableHeight = 504
